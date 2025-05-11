@@ -1,0 +1,11 @@
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/bin/Debug/net8.0/shared-contracts.deps.json
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/bin/Debug/net8.0/shared-contracts.dll
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/bin/Debug/net8.0/shared-contracts.pdb
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.AssemblyInfoInputs.cache
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.AssemblyInfo.cs
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.csproj.CoreCompileInputs.cache
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.dll
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/refint/shared-contracts.dll
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.pdb
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/ref/shared-contracts.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xrtdu4u95hM2zBmT9xqqf7zvr+mpPcy3ZOIWyLLKFJE=",
+  "Source": "measurements-api",
+  "BasePath": "_content/measurements-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

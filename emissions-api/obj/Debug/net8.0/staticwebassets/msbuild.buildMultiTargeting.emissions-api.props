@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/emissions-api.props" />
+</Project>
