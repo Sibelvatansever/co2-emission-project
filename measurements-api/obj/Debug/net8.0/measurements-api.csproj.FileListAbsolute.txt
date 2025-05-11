@@ -33,3 +33,4 @@
 /Users/sibelvatansever/Desktop/co2-tech-challenge/measurements-api/obj/Debug/net8.0/ref/measurements-api.dll
 /Users/sibelvatansever/Desktop/co2-tech-challenge/measurements-api/bin/Debug/net8.0/shared-contracts.dll
 /Users/sibelvatansever/Desktop/co2-tech-challenge/measurements-api/bin/Debug/net8.0/shared-contracts.pdb
+/Users/sibelvatansever/Desktop/co2-tech-challenge/measurements-api/obj/Debug/net8.0/measurements-api.sourcelink.json

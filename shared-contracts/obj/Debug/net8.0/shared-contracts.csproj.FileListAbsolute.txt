@@ -9,3 +9,4 @@
 /Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/refint/shared-contracts.dll
 /Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.pdb
 /Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/ref/shared-contracts.dll
+/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/Debug/net8.0/shared-contracts.sourcelink.json

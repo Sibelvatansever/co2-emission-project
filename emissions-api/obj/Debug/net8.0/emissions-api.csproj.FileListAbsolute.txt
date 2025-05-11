@@ -33,3 +33,4 @@
 /Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/obj/Debug/net8.0/ref/emissions-api.dll
 /Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/bin/Debug/net8.0/shared-contracts.dll
 /Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/bin/Debug/net8.0/shared-contracts.pdb
+/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/obj/Debug/net8.0/emissions-api.sourcelink.json
