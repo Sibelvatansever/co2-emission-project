@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sibelvatansever/Desktop/co2-tech-challenge/Emissions.UnitTests/Emissions.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/sibelvatansever/Desktop/co2-tech-challenge/calculator-api/calculator-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sibelvatansever/Desktop/co2-tech-challenge/calculator-api/calculator-api.csproj",
+        "projectName": "calculator-api",
+        "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/calculator-api/calculator-api.csproj",
+        "packagesPath": "/Users/sibelvatansever/.nuget/packages/",
+        "outputPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/calculator-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sibelvatansever/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj": {
+                "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/emissions-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/emissions-api.csproj",
+        "projectName": "emissions-api",
+        "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/emissions-api.csproj",
+        "packagesPath": "/Users/sibelvatansever/.nuget/packages/",
+        "outputPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sibelvatansever/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj": {
+                "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sibelvatansever/Desktop/co2-tech-challenge/Emissions.UnitTests/Emissions.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sibelvatansever/Desktop/co2-tech-challenge/Emissions.UnitTests/Emissions.UnitTests.csproj",
+        "projectName": "Emissions.UnitTests",
+        "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/Emissions.UnitTests/Emissions.UnitTests.csproj",
+        "packagesPath": "/Users/sibelvatansever/.nuget/packages/",
+        "outputPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/Emissions.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sibelvatansever/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sibelvatansever/Desktop/co2-tech-challenge/calculator-api/calculator-api.csproj": {
+                "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/calculator-api/calculator-api.csproj"
+              },
+              "/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/emissions-api.csproj": {
+                "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/emissions-api/emissions-api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj",
+        "projectName": "shared-contracts",
+        "projectPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/shared-contracts.csproj",
+        "packagesPath": "/Users/sibelvatansever/.nuget/packages/",
+        "outputPath": "/Users/sibelvatansever/Desktop/co2-tech-challenge/shared-contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sibelvatansever/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
