@@ -28,7 +28,7 @@ public class CalculatorController : ControllerBase
             return StatusCode(503, "Emissions service unavailable.");
 
         var grouped = measurements
-            .GroupBy(m => m.Timestamp - (m.Timestamp % 900)) // 15 min interval
+            .GroupBy(m => m.Timestamp - (m.Timestamp % 900))
             .ToDictionary(g => g.Key, g => g.Average(m => m.Watts));
 
         double totalKg = 0;
@@ -50,8 +50,8 @@ public class CalculatorController : ControllerBase
         {
             try
             {
-                var result = await client.GetFromJsonAsync<List<MeasurementDto>>(
-                    $"http://localhost:5042/api/measurements/{userId}?from={from}&to={to}");
+                var url = $"http://measurements-api/api/measurements/{userId}?from={from}&to={to}";
+                var result = await client.GetFromJsonAsync<List<MeasurementDto>>(url);
 
                 if (result != null && result.Any())
                     return result;
@@ -69,8 +69,8 @@ public class CalculatorController : ControllerBase
     {
         try
         {
-            return await client.GetFromJsonAsync<List<EmissionDto>>(
-                $"http://localhost:5286/api/emissions?from={from}&to={to}");
+            var url = $"http://emissions-api/api/emissions?from={from}&to={to}";
+            return await client.GetFromJsonAsync<List<EmissionDto>>(url);
         }
         catch
         {
