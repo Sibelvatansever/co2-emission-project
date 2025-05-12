@@ -1,0 +1,3 @@
+open -a TextEdit measurements-api/Dockerfile
+
+

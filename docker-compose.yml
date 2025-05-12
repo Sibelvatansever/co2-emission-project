@@ -1,0 +1,21 @@
+services:
+  calculator-api:
+    build:
+      context: .
+      dockerfile: calculator-api/Dockerfile
+    ports:
+      - "8080:8080"
+
+  measurements-api:
+    build:
+      context: .
+      dockerfile: measurements-api/Dockerfile
+    ports:
+      - "5042:80"
+
+  emissions-api:
+    build:
+      context: .
+      dockerfile: emissions-api/Dockerfile
+    ports:
+      - "5286:80"
